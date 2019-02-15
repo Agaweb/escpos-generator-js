@@ -1,0 +1,17 @@
+{
+  "name": "escpos-generator",
+  "version": "0.1.1",
+  "description": "Generate ESCPOS commands",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Nicholas Bertazzon",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasBertazzon/escpos-generator-js.git",
+    "baseUrl": "https://github.com/NicholasBertazzon/escpos-generator-js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "codepage": "^1.14.0"
+  }
+}
