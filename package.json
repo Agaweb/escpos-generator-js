@@ -12,6 +12,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "codepage": "^1.14.0"
+    "iconv-lite": "^0.5.1",
+    "buffer": "^5.4.3"
   }
 }
