@@ -7,8 +7,8 @@
   "author": "Nicholas Bertazzon",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NicholasBertazzon/escpos-generator-js.git",
-    "baseUrl": "https://github.com/NicholasBertazzon/escpos-generator-js"
+    "url": "git+https://github.com/Agaweb/escpos-generator-js.git",
+    "baseUrl": "https://github.com/Agaweb/escpos-generator-js"
   },
   "license": "MIT",
   "dependencies": {
